@@ -1,0 +1,21 @@
+.login-container {
+    max-width: 500px;
+}
+.subjects {
+    align-items: center;
+    margin: auto;
+
+    width: 90%;
+    max-width: 1024px;
+    margin-top: 10vh;
+}
+
+.card {
+    border: 1px solid gray;
+}
+
+.students {
+    width: 90%;
+    max-width: 1024px;
+    margin: auto;
+}
